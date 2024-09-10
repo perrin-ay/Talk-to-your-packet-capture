@@ -1,4 +1,4 @@
-# Talk-to-your-packet-capture
+# Try it on huggingface spaces
 
 https://huggingface.co/spaces/bridge4/pcapTalker
 
